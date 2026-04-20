@@ -27,7 +27,6 @@
 
 ## 📫 Connect with Me
 
-* 📧 Email: [[My Email@gmail.com](mailto:your-email@gmail.com)](https://mail.google.com/mail/u/3/)
 * 💼 LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/mohamed-ahmed-270138344)
 
 ---
