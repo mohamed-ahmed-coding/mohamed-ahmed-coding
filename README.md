@@ -27,7 +27,7 @@
 
 ## 📫 Connect with Me
 
-* 💼 LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/mohamed-ahmed-270138344)
+* 💼 LinkedIn : [My Linkedin Profile](https://www.linkedin.com/in/mohamed-ahmed-270138344)
 
 ---
 
