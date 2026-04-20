@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed
 
-<!--
-**mohamed-ahmed-coding/mohamed-ahmed-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Flutter Developer passionate about building scalable and clean mobile applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+* 📱 I build mobile apps using Flutter
+* 🧠 Strong focus on Clean Architecture
+* ⚙️ State Management using Bloc
+* 🌐 Experience with REST APIs integration and Backend with Firebase
+
+---
+
+## 🛠️ Tech Stack
+
+* Flutter & Dart (OOP and Algorithm)
+* Bloc (Cubit) (State Management)
+* REST APIs (Dio)
+* Clean Architecture (MVC & MVVM)
+* Firebase (Authentication & Backend)
+* Resbonsive and Modern UI
+
+---
+
+
+## 📫 Connect with Me
+
+* 📧 Email: [[My Email@gmail.com](mailto:your-email@gmail.com)](https://mail.google.com/mail/u/3/)
+* 💼 LinkedIn: [My Linkedin Profile](https://www.linkedin.com/in/mohamed-ahmed-270138344)
+
+---
+
+## ⚡ Fun Fact
+
+I love turning ideas into real-world mobile apps 🚀
